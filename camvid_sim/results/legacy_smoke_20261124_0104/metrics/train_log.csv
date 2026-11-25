@@ -1,0 +1,3 @@
+epoch,train_loss,val_loss,val_mIoU,val_pixel_acc
+1,2.1602,1.5392,0.4195,0.8581
+2,1.3721,1.2119,0.4435,0.8667

@@ -1,0 +1,2 @@
+exp,split,seed,best_epoch,best_val_miou,mIoU,pixel_acc,IoU_Sky,IoU_Building,IoU_Pole,IoU_Road,IoU_Pavement,IoU_Tree,IoU_SignSymbol,IoU_Fence,IoU_Car,IoU_Pedestrian,IoU_Bicyclist
+E0,val,42,1,0.4298268926165348,0.4298,0.8670,0.8899,0.7596,0.0000,0.9288,0.6772,0.8355,0.0000,0.0012,0.6177,0.0033,0.0148

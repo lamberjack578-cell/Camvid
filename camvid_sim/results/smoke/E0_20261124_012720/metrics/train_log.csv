@@ -1,0 +1,2 @@
+epoch,seed,train_loss,val_loss,val_mIoU,val_pixel_acc,lr,epoch_seconds
+1,42,2.1743,1.4443,0.4298,0.8670,1.00e-04,13.9

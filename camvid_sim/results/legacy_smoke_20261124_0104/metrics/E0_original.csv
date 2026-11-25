@@ -1,0 +1,2 @@
+exp,mIoU,pixel_acc,IoU_Sky,IoU_Building,IoU_Pole,IoU_Road,IoU_Pavement,IoU_Tree,IoU_SignSymbol,IoU_Fence,IoU_Car,IoU_Pedestrian,IoU_Bicyclist
+E0,0.4226,0.8659,0.8944,0.7671,0.0000,0.8827,0.6663,0.6936,0.0000,0.0024,0.7237,0.0177,0.0003

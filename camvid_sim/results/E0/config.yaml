@@ -1,0 +1,15 @@
+exp:
+  name: E0
+  description: "CamVid 原始图像基线：U-Net+ResNet34(ImageNet), Adam 1e-4, CE+Dice, 仅随机裁剪+水平翻转"
+
+seed: 42
+data:
+  root: data/camvid
+  crop_size: [320, 448]
+train:
+  batch_size: 4
+  epochs: 50
+  lr: 1.0e-4
+  num_workers: 0        # Windows 下先用 0 最稳，稳定后可试 2
+eval:
+  vis_samples: 12       # 测试集可视化样本数；0 表示全部 233 张
